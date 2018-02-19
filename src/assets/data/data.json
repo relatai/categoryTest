@@ -1,0 +1,28 @@
+{
+   "properties" : [
+        {
+            "city": "São Paulo",
+            "state" : "SP",
+            "lat":-23.505244,
+            "long":-46.604885
+        },
+        {
+            "city": "Volta Redonda",
+            "state": "RJ",
+            "lat":-22.545287, 
+            "long":-44.069668
+        },
+        {
+            "city": "Resende",
+            "state": "RJ",
+            "lat":-22.471643,  
+            "long":-44.468364
+        },
+        {
+            "city": "Penha",
+            "state": "SC",
+            "lat":-26.801229,
+            "long":-48.617687
+        }
+   ]
+}
